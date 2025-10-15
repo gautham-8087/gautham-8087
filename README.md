@@ -17,7 +17,7 @@
 
 I'm a passionate developer from **Coimbatore, India**, building full-stack and ML-powered applications. I enjoy converting ideas into clean, maintainable code and shipping projects that solve real problems.
 
-- 🎓 **B.E. in Information Technology** — KGiSL Institute of Technology (2022–2026)
+- 🎓 **B.Tech. in Information Technology** — KGiSL Institute of Technology (2022–2026)
 - 📍 Based in **Coimbatore, India**
 - 💼 Open to **internships**, **freelance projects**, and **collaborations**
 - 📧 Reach me at: **agautham2024@gmail.com** | 📱 **+91 9965555573**
