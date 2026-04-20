@@ -80,11 +80,11 @@ I'm a passionate developer from **Coimbatore, India**, building full-stack and M
 **Tech Stack:** MERN • Twilio • EmailJS  
 A patient medication tracker with SMS reminders, role-based access, admin dashboard and real-time monitoring.
 
-### 📦 [Warehouse Management System]{https://github.com/gautham-8087}
+### 📦 [Warehouse Management System](https://github.com/gautham-8087)
 Tech Stack: Frappe • Python • JavaScript • MySQL
 A full-stack inventory management system with purchase and sales workflows, real-time stock updates, validation using document lifecycle hooks, and interactive dashboards with charts and reports.
 
-### 🎓 [CampusFlow]{https://github.com/gautham-8087}
+### 🎓 [CampusFlow](https://github.com/gautham-8087)
 Tech Stack: Frappe • Python • JavaScript
 A role-based college management system for handling complaints and workflows with Authority, Head, and Student access, including real-time tracking and status updates.
 
