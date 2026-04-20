@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Gautham A
 
-### Aspiring Software Developer | Full-Stack & ML Enthusiast
+### Aspiring Software & Frontend Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white)](https://gautham037.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautham-8087)
