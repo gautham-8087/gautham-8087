@@ -113,6 +113,13 @@ Efficient task management system with intuitive interface.
 
 ## 💼 Professional Experience
 
+### 🔹 Software Development Intern | Aerele Technologies**
+*February 2026 – Present*
+-Built and optimized scalable web modules improving application performance and usability
+-Developed and integrated RESTful APIs enabling seamless frontend-backend communication
+-Enhanced user experience through responsive UI design and performance tuning
+-Collaborated on debugging, testing, and deployment in a real-world production environment
+
 ### 🔹 Java Intern | **VaultofCodes**
 *August 2025 – September 2025*
 - Developed backend modules using Spring Boot
