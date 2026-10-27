@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Gautham A
+# 👋 Hi, I'm Gautham Arun Anand Kumar
 
 ### Aspiring Software & AI Developer 
 
